@@ -1,7 +1,7 @@
 ---
-newstitle: "Every block Paragraph's editor makes"
-eleventyNavigation: {"parent":"Blog"}
 blogHighlight: true
+eleventyNavigation: {"parent":"Blog"}
+newstitle: "Every block Paragraph's editor makes"
 postAuthor: ""
 ---
 
