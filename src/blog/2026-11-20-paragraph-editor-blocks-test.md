@@ -7,7 +7,7 @@ blogHighlight: true
 screenshotCacheBust: 1
 postAuthor: Paragraph Team
 postAuthors:
-  "{author}": https://x.com/paragraph_xyz
+  Paragraph Team: https://x.com/paragraph_xyz
 ---
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
