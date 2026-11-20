@@ -2,7 +2,6 @@
 eleventyNavigation: {"parent":"Blog"}
 newstitle: "Every block Paragraph's editor makes"
 postAuthor: ""
-sidebarTitle: null
 ---
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
